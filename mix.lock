@@ -1,0 +1,4 @@
+%{
+  "expo": {:hex, :expo, "0.4.1", "1c61d18a5df197dfda38861673d392e642649a9cef7694d2f97a587b2cfb319b", [:mix], [], "hexpm", "2ff7ba7a798c8c543c12550fa0e2cbc81b95d4974c65855d8d15ba7b37a1ce47"},
+  "gettext": {:git, "https://github.com/elixir-gettext/gettext.git", "d596823794ce0c8791ee9f8187698a4b60610f94", [ref: "d596823"]},
+}
