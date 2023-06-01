@@ -3,16 +3,18 @@ defmodule Demo do
   Documentation for `Demo`.
   """
 
+  import Demo.Gettext
+
   @doc """
   Hello world.
 
   ## Examples
 
       iex> Demo.hello()
-      :world
+      "hello!"
 
   """
   def hello do
-    :world
+    gettext("hello!")
   end
 end
