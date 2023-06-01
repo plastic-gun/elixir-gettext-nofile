@@ -140,3 +140,7 @@ $ mix do loadpaths + gettext.merge priv/gettext --locale en_US
 That's it.
 
 However, it would be better to provide feedback to the upstream to reduce the usage cost for other developers.
+
+## Latest updates
+
+The solution has been merged by <https://github.com/elixir-gettext/gettext/pull/365>.
