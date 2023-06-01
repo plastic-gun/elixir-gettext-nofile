@@ -1,6 +1,8 @@
 # elixir-gettext-no-file
 
-## To Reproduce
+## How to reproduce?
+
+This problem only occurs when using Gettext with custom plural module.
 
 ```
 $ mix deps.get
